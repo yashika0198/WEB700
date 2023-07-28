@@ -1,0 +1,23 @@
+{
+  "name": "Yashika-Babbar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spatel609/webassignment_4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spatel609/Awebassignment_4/issues"
+  },
+  "homepage": "https://github.com/spatel609/webassignment_4#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
